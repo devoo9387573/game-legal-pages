@@ -1,114 +1,134 @@
-# Tiny Leap — Terms of Use
+# Terms of Use — HopShift
 
-**Effective Date:** November 3, 2026
-**Last Updated:** November 3, 2026
+**Last Updated: November 5, 2026**
 
-**Developer:** Jonox Games
-**Contact:** [jonoxgames@gmail.com](mailto:jonoxgames@gmail.com)
+## 1. Introduction
 
-## 1. Acceptance of Terms
+Welcome to **HopShift**, a mobile game developed and published by **Jonox Games**.
 
-Welcome to Tiny Leap, a free mobile game developed and published by Jonox Games.
+These Terms of Use govern your access to and use of HopShift, including its gameplay features, advertisements, and related services.
 
-These Terms of Use explain the conditions that apply when you download, install, or play Tiny Leap.
+By downloading, installing, or using HopShift, you agree to these Terms of Use, subject to applicable laws.
 
-By using the game, you agree to these Terms, subject to applicable laws and consumer rights.
+If you do not agree with these terms, you may stop using the game.
 
-If you do not agree with these Terms, you may discontinue using the game.
+## 2. License to Use
 
-## 2. License to Use the Game
-
-Jonox Games grants you a limited, non-exclusive, non-transferable, revocable license to install and use Tiny Leap for personal, non-commercial entertainment purposes.
+Jonox Games grants you a limited, non-exclusive, non-transferable, revocable license to use HopShift for personal, non-commercial entertainment purposes, subject to these Terms and applicable laws.
 
 This license does not transfer ownership of the game or its intellectual property.
 
-You may not redistribute, sell, or commercially exploit the game's proprietary content without permission, except where applicable law or third-party open-source licenses permit otherwise.
+## 3. Gameplay and Features
 
-## 3. Game Features and Virtual Items
+HopShift is a casual mobile game featuring platform-based gameplay, timing challenges, and progression systems.
 
-Tiny Leap is a free-to-play mobile game.
+Game features, difficulty, mechanics, and available content may be updated or adjusted over time.
 
-The game includes virtual currency known as Leap Coins, unlockable cosmetic items, and locally stored gameplay progress.
+We aim to maintain a functional and enjoyable gameplay experience, but uninterrupted or error-free operation cannot be guaranteed.
 
-* Virtual currency is earned through gameplay.
-* Virtual currency and cosmetic items have no real-world monetary value.
-* Virtual items cannot be exchanged for real money.
-* The current version does not offer in-app purchases.
-* Gameplay progress is stored locally on your device.
+## 4. Advertisements
 
-## 4. Acceptable Use
+HopShift uses **Huawei Petal Ads (Huawei Ads Kit)** to display advertisements.
 
-You agree not to use Tiny Leap in ways that violate applicable laws or infringe the rights of others.
+The game currently includes the following advertising formats:
 
-You must not distribute unauthorized modified copies of the game or misuse its proprietary content.
+### 4.1 Rewarded Advertisements
 
-These restrictions do not limit rights granted under applicable open-source licenses or mandatory law.
+Players may voluntarily choose to watch a rewarded advertisement after a failed attempt to continue their current run.
 
-## 5. Intellectual Property
+* Rewarded advertisements are optional.
+* Rewards are granted only after the advertising service confirms successful completion of the required viewing conditions.
+* Rewarded Continue is limited to one successful use per run.
+* If an advertisement is unavailable, interrupted, or not completed, the reward may not be granted.
+* Advertisement availability may vary depending on the device, region, network connection, and advertising service.
 
-Tiny Leap's original game design, artwork, characters, audio, and proprietary software are provided by Jonox Games.
+### 4.2 Interstitial Advertisements
 
-The game also uses the Godot Engine and associated open-source components, which remain subject to their respective licenses.
+HopShift may display full-screen interstitial advertisements between gameplay sessions.
 
-Third-party open-source components are not claimed as exclusive property of Jonox Games.
+Under the current gameplay configuration, an interstitial advertisement may appear after every three failed runs when the player selects Retry.
 
-Applicable license notices are available through the game's Open Source Licenses section.
+Advertisements are not intended to interrupt active gameplay.
 
-## 6. Privacy
+### 4.3 Third-Party Advertising
 
-Tiny Leap is designed to operate offline and does not require account registration.
+Advertisements are delivered through Huawei's advertising services.
 
-Gameplay progress and preferences are stored locally on your device.
+Advertised products, services, and external websites are operated by their respective providers.
 
-For further details, please review the Tiny Leap Privacy Policy.
+Jonox Games does not independently guarantee the accuracy, availability, or quality of third-party advertised products or services.
+
+For information about advertising-related data practices, please review our Privacy Policy.
+
+## 5. User Responsibilities
+
+When using HopShift, you agree not to:
+
+* Modify, distribute, or commercially exploit unauthorized copies of the game in violation of applicable laws.
+* Attempt to manipulate advertisement reward verification or interfere with advertising services.
+* Use the game for unlawful purposes.
+* Interfere with the game's technical operation or security.
+
+Nothing in these Terms limits rights that cannot lawfully be restricted.
+
+## 6. Intellectual Property
+
+HopShift, including its original game code, visual elements, interface designs, and other original content, is owned by Jonox Games or used under applicable licenses.
+
+Third-party libraries, technologies, and assets remain subject to their respective ownership rights and licenses.
+
+The names and trademarks of third-party services, including Huawei, belong to their respective owners.
 
 ## 7. Updates and Availability
 
-Jonox Games may release updates to improve performance, fix bugs, or introduce new features.
+Jonox Games may release updates to improve performance, fix bugs, introduce features, or maintain compatibility with supported devices.
 
-We do not guarantee that every feature will remain unchanged or that the game will be compatible with every device.
+Some features, including advertisements, may require an internet connection or compatible third-party services.
 
-Where required by applicable law, users will be informed of material changes affecting their rights.
+We may modify or discontinue features when reasonably necessary, subject to applicable laws.
 
-## 8. Data Loss
+## 8. Privacy
 
-Because Tiny Leap stores gameplay progress locally, uninstalling the game, clearing its storage, or certain device-related events may result in loss of saved progress.
+Your privacy is important to us.
 
-Users should be aware that the current version does not provide cloud backup or account-based progress recovery.
+HopShift may use third-party advertising technologies that process certain technical and advertising-related information.
 
-## 9. Disclaimer
+Please review the game's **Privacy Policy** for information about data practices, third-party services, and available privacy choices.
 
-Tiny Leap is provided for entertainment purposes.
+## 9. Disclaimer of Warranties
 
-We aim to maintain a stable and enjoyable experience, but cannot guarantee that the game will always operate without errors or interruptions.
+HopShift is provided on an "as available" basis.
 
-Nothing in these Terms excludes warranties or protections that cannot legally be excluded.
+To the extent permitted by applicable law, Jonox Games does not guarantee that the game will operate without interruption, technical errors, or compatibility issues.
+
+This section does not exclude any mandatory consumer protections or legal rights.
 
 ## 10. Limitation of Liability
 
-To the extent permitted by applicable law, Jonox Games is not responsible for indirect or consequential losses arising from use of the game.
+To the extent permitted by applicable law, Jonox Games is not responsible for indirect or consequential losses arising from the use or unavailability of HopShift.
 
-Nothing in these Terms limits liability or consumer rights where such limitations are prohibited by applicable law.
+Nothing in these Terms excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
 
 ## 11. Changes to These Terms
 
-We may update these Terms of Use to reflect changes to the game, our practices, or applicable requirements.
+We may update these Terms of Use to reflect changes in the game, advertising services, or applicable requirements.
 
-The latest version will be published on this page with an updated revision date.
+Updated terms will be published on this page with a revised "Last Updated" date.
 
-Material changes will be communicated where required by law.
+Where required by applicable law, we will provide additional notice or obtain consent.
 
-## 12. Governing Law
+## 12. Contact Information
 
-These Terms are governed by the applicable laws of the Kingdom of Saudi Arabia, without limiting any mandatory consumer protections that may apply in a user's country or region.
+If you have questions about these Terms of Use, please contact:
 
-## 13. Contact Us
+**Developer:** Jonox Games
 
-For questions about Tiny Leap or these Terms of Use, contact:
+**Game:** HopShift
 
-**Jonox Games**
 **Email:** [jonoxgames@gmail.com](mailto:jonoxgames@gmail.com)
+
+**Platform:** Huawei AppGallery
 
 ---
 
-© 2026 Jonox Games. All rights reserved, except for third-party components governed by their respective licenses.
+© 2026 Jonox Games. All rights reserved.
