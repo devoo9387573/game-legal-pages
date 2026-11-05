@@ -1,106 +1,128 @@
-# Tiny Leap — Privacy Policy
+# Privacy Policy for HopShift
 
-**Effective Date:** November 3, 2026
-**Last Updated:** November 3, 2026
-
-**Developer:** Jonox Games
-**Contact Email:** [jonoxgames@gmail.com](mailto:jonoxgames@gmail.com)
+**Last Updated: November 5, 2026**
 
 ## 1. Introduction
 
-Welcome to Tiny Leap, a mobile game developed and published by Jonox Games.
+Welcome to **HopShift**, a mobile game developed and published by **Jonox Games**.
 
-We respect your privacy and are committed to providing a safe and transparent gaming experience.
+We respect your privacy and are committed to being transparent about how information may be collected, used, and processed when you play our game.
 
-This Privacy Policy explains how Tiny Leap handles information when you use the game.
+This Privacy Policy explains our practices regarding user information, third-party advertising services, and data protection.
+
+By using HopShift, you acknowledge the practices described in this Privacy Policy.
 
 ## 2. Information We Collect
 
-Tiny Leap does not collect, request, or transmit personal information.
+HopShift does not require users to create an account or provide personal information such as their name, email address, or phone number to play.
 
-The game does not require users to create an account, sign in, or provide personal details.
+The game may store gameplay-related information locally on your device, such as scores, progress, and preferences.
 
-We do not collect names, email addresses, phone numbers, precise location data, advertising identifiers, or device identifiers.
-
-## 3. Local Game Data
-
-Tiny Leap stores certain gameplay information locally on your device to maintain your progress and preferences.
+However, third-party services integrated into the game, including Huawei advertising services, may process certain technical information in accordance with their own privacy policies.
 
 This information may include:
 
-* High scores and gameplay statistics.
-* In-game currency (Leap Coins).
-* Unlocked and selected cosmetic items.
-* Sound and gameplay preferences.
+* Device information and operating system details.
+* Advertising identifiers, where available and permitted.
+* IP address and approximate location derived from network information.
+* Advertisement impressions and interactions.
+* Technical diagnostic and performance information.
 
-This information is stored in the application's private local storage.
+The specific information processed depends on the advertising SDK, device configuration, permissions, and applicable privacy settings.
 
-It is not transmitted to Jonox Games or external servers.
+## 3. Advertising — Huawei Petal Ads
 
-Uninstalling the game normally removes this locally stored information.
+HopShift uses **Huawei Petal Ads (Huawei Ads Kit)** to display advertisements.
 
-## 4. Internet Connectivity
+The game includes two types of advertisements:
 
-Tiny Leap is designed to function entirely offline.
+**Rewarded Advertisements**
 
-The game does not require an internet connection to play and does not communicate with external servers during normal gameplay.
+Players may voluntarily watch a rewarded advertisement to continue playing after a failed attempt.
 
-## 5. Advertising and Analytics
+Rewards are granted only when the advertising service confirms that the required viewing conditions have been satisfied.
 
-The current version of Tiny Leap does not contain advertisements.
+**Interstitial Advertisements**
 
-It does not integrate third-party advertising networks, analytics services, or crash-reporting SDKs.
+Full-screen advertisements may appear between gameplay sessions, including after a specified number of failed attempts when the player chooses to retry.
 
-If advertising or analytics features are introduced in a future version, this Privacy Policy will be updated to explain the relevant data practices before those features are released.
+Huawei's advertising services may process device identifiers, advertising interaction data, and other technical information to deliver, measure, and maintain advertisements, subject to applicable settings and requirements.
+
+For more information about Huawei's privacy practices, please visit:
+
+https://consumer.huawei.com/en/privacy/privacy-policy/
+
+## 4. How Information Is Used
+
+Information processed through integrated services may be used to:
+
+* Display and manage advertisements.
+* Verify rewarded advertisement completion.
+* Measure advertisement performance.
+* Maintain service functionality and security.
+* Diagnose technical issues.
+
+Jonox Games does not sell personal information directly to advertisers.
+
+## 5. Data Storage
+
+Gameplay progress and preferences may be stored locally on your device.
+
+Third-party advertising services may process and retain information according to their own policies and applicable legal requirements.
+
+Jonox Games does not control the independent retention practices of third-party advertising providers.
 
 ## 6. Third-Party Services
 
-The current version of Tiny Leap does not integrate third-party services that collect or process player information on behalf of Jonox Games.
+HopShift integrates Huawei advertising technology.
 
-The game is distributed through third-party application stores, which may independently process information according to their own privacy policies.
+Third-party services may operate under separate privacy policies and data protection practices.
+
+Users are encouraged to review Huawei's privacy documentation for additional information about its advertising services.
 
 ## 7. Children's Privacy
 
-Tiny Leap does not knowingly collect personal information from children or other users.
+HopShift is designed as a general-audience casual game.
 
-The game does not include account registration, social networking features, or in-game communication systems.
+We do not knowingly request personal information directly from children.
 
-If you have questions about children's privacy, please contact us using the email address provided below.
+Third-party advertising technologies may process technical information as described above. Advertising configuration and any age-related restrictions must comply with applicable laws and platform requirements.
 
-## 8. Data Sharing
+If you are a parent or guardian with a privacy concern, please contact us using the information below.
 
-Jonox Games does not sell, share, or transmit personal information collected through Tiny Leap because the current version of the game does not collect such information.
+## 8. Data Security
 
-Locally stored gameplay progress is not uploaded to our servers.
+We take reasonable measures to protect information within the aspects of the game under our control.
 
-## 9. Data Security and Retention
+However, no electronic system or data transmission method can be guaranteed to be completely secure.
 
-Gameplay progress and preferences are stored locally within the application's private storage.
+## 9. Your Privacy Choices
 
-Jonox Games does not maintain a remote database of player information for Tiny Leap.
+Players can choose whether to watch rewarded advertisements.
 
-Players can generally remove locally stored game data by clearing the application's storage or uninstalling the game.
+Device settings may provide options to manage advertising identifiers, permissions, and privacy preferences.
 
-## 10. Your Privacy Choices
+Users may contact Jonox Games with questions about information handled directly by the developer.
 
-Because Tiny Leap does not collect personal information or maintain player accounts, there is no personal information held by Jonox Games through the game for users to access, correct, or delete.
+Requests relating to information independently processed by Huawei may also need to be directed to Huawei through its privacy channels.
 
-You can manage locally stored gameplay information through your device's application settings.
+## 10. Changes to This Privacy Policy
 
-For privacy-related questions, you may contact us directly.
-
-## 11. Changes to This Privacy Policy
-
-We may update this Privacy Policy when necessary to reflect changes to the game, applicable requirements, or our information practices.
+We may update this Privacy Policy to reflect changes in game functionality, advertising services, legal requirements, or privacy practices.
 
 Any updates will be published on this page with a revised "Last Updated" date.
 
-## 12. Contact Us
+## 11. Contact Us
 
-If you have questions, concerns, or requests regarding this Privacy Policy, please contact:
+If you have any questions or concerns about this Privacy Policy, please contact:
 
-**Jonox Games**
+**Developer:** Jonox Games
+
+**Game:** HopShift
+
 **Email:** [jonoxgames@gmail.com](mailto:jonoxgames@gmail.com)
+
+**Platform:** Huawei AppGallery
 
 ---
 
